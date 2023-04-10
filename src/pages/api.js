@@ -1,0 +1,1 @@
+export const API = 'http://ravshandev.uz/ru/api/v1/'

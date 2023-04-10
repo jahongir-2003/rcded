@@ -1,0 +1,52 @@
+.icons {
+  width: 85px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+.mtop {
+  margin-top: 0;
+}
+.submit-button {
+  margin: -10px auto 20px;
+  letter-spacing: 4px;
+}
+.media-dual {
+  display: block;
+}
+.icons {
+  width: 60px!important;
+  height: 60px!important;
+}
+.icons-text{
+  font-size:12px;
+}
+.flexicons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+.displayIcons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@media (min-width: 576px) {
+  .icon-text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  .icons {
+    width: 120px!important;
+    height: 120px!important;
+  }
+  .mtop {
+    margin-top: 100px;
+  }
+  .media-dual {
+  }
+  .icons-text{
+    font-size:30px;
+  }
+}
